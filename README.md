@@ -55,3 +55,11 @@ um_work_p2/
 ├── data/
 │   └── cleaned_attrition.csv
     └── Palo Alto Networks.csv
+```
+
+## Author
+Vaishnavi Metkar
+
+## Acknowledgement
+
+This project was completed as part of the Unified Mentor Data Analytics Program.

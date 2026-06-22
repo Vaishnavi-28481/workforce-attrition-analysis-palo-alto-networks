@@ -5,7 +5,7 @@ import seaborn as sns
 
 sns.set_style("whitegrid")
 
-df = pd.read_csv("Palo Alto Networks.csv")
+df = pd.read_csv("data/Palo Alto Networks.csv")
 
 print(df.shape)
 
@@ -218,4 +218,4 @@ plt.show()
 
 
 
-df.to_csv("cleaned_attrition.csv", index=False)
+df.to_csv("data/cleaned_attrition.csv", index=False)
